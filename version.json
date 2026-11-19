@@ -1,1 +1,1 @@
-{"versionCode": 3, "versionName": "1.1.1", "apkUrl": "https://raw.githubusercontent.com/treding834-netizen/DinSathi/main/DinSathi-v1.1.1.apk", "force": false, "message": "DinSathi v1.1.1 — startup fix + diagnostic log. অ্যাপ না খুললে Downloads ফোল্ডারের DinSathi-log.txt পাঠান।"}
+{"versionCode": 4, "versionName": "1.1.2", "apkUrl": "https://raw.githubusercontent.com/treding834-netizen/DinSathi/main/DinSathi-v1.1.2.apk", "force": false, "message": "DinSathi v1.1.2 — Android 12 startup crash fix (insets controller)."}
